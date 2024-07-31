@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 🔭 I’m currently working on Full Time Java Developer Profile<br>👯 I’m looking to collaborate on Java projects<br>🤝 Loved to participate in Hackathons  <br>🌱 I’m currently learning Java,DSA and web application Development<br>💬 I'd be happy to tell you about my experience so far<br>⚡ Fun fact : which type of algo use instagram comment section ?
 

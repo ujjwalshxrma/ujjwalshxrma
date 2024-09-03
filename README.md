@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Time Java Developer Profile<br>👯 I’m looking to collaborate on Java projects<br>🤝 Loved to participate in Hackathons  <br>🌱 I’m currently learning Java,DSA and web application Development<br>💬 I'd be happy to tell you about my experience so far<br>⚡ Fun fact : which type of algo use instagram comment section ?
+🔭 I’m currently working on Full Time SpringBoot Developer Profile<br>👯 I’m looking to collaborate on Java projects<br>🤝 Loved to participate in Hackathons  <br>🌱 I’m currently learning Java,DSA and web application Development<br>💬 I'd be happy to tell you about my experience so far<br>⚡ Fun fact : which type of algo use instagram comment section ?
 ## Certified Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
